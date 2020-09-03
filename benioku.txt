@@ -1,0 +1,2 @@
+Programı çalıştırabilmek için Mingw kütüphanesini kurunuz. Sayıları değiştirmek veya düzenlemek için /src/Sayilar.txt
+dosyasına bakabilirsiniz.
